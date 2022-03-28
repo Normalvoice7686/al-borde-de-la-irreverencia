@@ -1,0 +1,15 @@
+.page{
+    padding: 10%;
+}
+
+.header{
+    margin: 0 20px;
+}
+
+.header__logo {
+    width: 60px;
+}
+
+.header__nav {
+    color: #000000;
+}
